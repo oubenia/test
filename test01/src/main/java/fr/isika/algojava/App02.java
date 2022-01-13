@@ -1,6 +1,6 @@
 package fr.isika.algojava;
 
-// Modif 10
+// Modif sur la nouvelle branche testing
 
 import java.util.Random;
 import java.util.Scanner;
